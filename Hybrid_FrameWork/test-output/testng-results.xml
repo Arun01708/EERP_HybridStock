@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T18:49:44 IST" name="Default suite" finished-at="2024-06-12T18:50:09 IST" duration-ms="24714">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T18:49:44 IST" name="Default test" finished-at="2024-06-12T18:50:09 IST" duration-ms="24714">
+      <class name="driverFactory.DriverScript">
+        <test-method signature="startTest()[pri:0, instance:driverFactory.DriverScript@35d019a3]" started-at="2024-06-12T18:49:44 IST" name="startTest" finished-at="2024-06-12T18:50:09 IST" duration-ms="24617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- driverFactory.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
